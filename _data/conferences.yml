@@ -39,6 +39,39 @@
   sub: ML
   tip: C
   
+- title: Humanoids
+  year: 2021
+  id: humanoids20
+  link: https://humanoids-2020.org/
+  deadline: '2021-01-22 23:59:59'
+  timezone: UTC-12
+  date: July 19-21, 2021
+  place: Munich, Germany
+  sub: RO
+  tip: C
+  
+- title: IbPRIA
+  year: 2021
+  id: ibpria21
+  link: http://www.ibpria.org/2021/
+  deadline: '2021-02-15 23:59:59'
+  timezone: UTC
+  date: July 19-21, 2021
+  place: Aveiro, Portugal
+  sub: CV, RO, ML
+  tip: C
+  
+- title: ICDL
+  year: 2021
+  id: icdl21
+  link: https://icdl-2021.org/
+  deadline: '2021-02-15 23:59:59'
+  timezone: UTC-12
+  date: August 23-26, 2021
+  place: Beijing, China
+  sub: RO
+  tip: C
+  
 - title: SIGGRAPH
   hindex: 19
   year: 2021
@@ -67,6 +100,18 @@
   tip: C
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 28, 2021. More info <a href=''https://icml.cc/Conferences/2021/''>here</a>.'
 
+- title: ICARSC
+  year: 2021
+  id: icarsc21
+  link: https://www.festivalnacionalrobotica.pt/icarsc/
+  deadline: '2021-02-15 23:59:59'
+  timezone: UTC
+  date: April 28-29, 2021
+  place: Santa Maria da Feira, Portugal
+  sub: RO
+  tip: C
+  note: 'double-blind submission'
+  
 - title: UAI
   hindex: 33
   year: 2021
