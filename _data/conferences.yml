@@ -10,7 +10,7 @@
   timezone: UTC-12
   date: April 8-10, 2021
   place: Online
-  sub: ML; C
+  sub: {ML, C}
   note: '<b>NOTE</b>: Recommended abstract deadline on Jan 10, 2021. More info <a href=''https://www.chilconference.org''>here</a>.'
 
 - title: ICIP
@@ -34,7 +34,7 @@
   timezone: UTC-12
   date: August 21-26, 2021
   place: Montreal, Canada
-  sub: ML, C
+  sub: {ML, C}
 
 - title: SIGGRAPH
   hindex: 19
@@ -46,7 +46,7 @@
   timezone: UTC
   date: August 1-5, 2021
   place: Online
-  sub: CV, C
+  sub: {CV, C}
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 27, 2021. More info <a href=''https://s2021.siggraph.org/program/technical-papers/''>here</a>.'
 
 - title: ICML
@@ -59,7 +59,7 @@
   timezone: UTC-12
   date: July 18-24, 2021
   place: Vienna, Austria
-  sub: ML, C
+  sub: {ML, C}
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 28, 2021. More info <a href=''https://icml.cc/Conferences/2021/''>here</a>.'
 
 - title: UAI
@@ -71,7 +71,7 @@
   timezone: UTC
   date: July 26-30, 2021
   place: TBD
-  sub: ML, C
+  sub: {ML, C}
 
 
 - title: RA-L w/ IROS
@@ -83,7 +83,7 @@
   timezone: America/Los_Angeles
   date: Sep 27-Oct 1, 2021
   place: Prague, Czech Republic
-  sub: RO, C
+  sub: {RO, C}
   
 - title: IROS
   hindex: 58
@@ -94,7 +94,7 @@
   timezone: America/Los_Angeles
   date: Sep 27-Oct 1, 2021
   place: Prague, Czech Republic
-  sub: RO, C
+  sub: {RO, C}
 
 - title: RSS
   hindex: 47
@@ -105,7 +105,7 @@
   timezone: UTC-12
   date: Jul 12-16, 2021
   place: Online
-  sub: RO, C
+  sub: {RO, C}
 
 - title: ICCV
   hindex: 176
@@ -116,4 +116,4 @@
   timezone: America/Los_Angeles
   date: October 11-17, 2021
   place: Montreal, Canada
-  sub: CV, C
+  sub: {CV, C}
