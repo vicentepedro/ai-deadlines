@@ -5,3 +5,7 @@
   sub: CV
 - name: Robotics
   sub: RO
+- name: Conferences
+  sub: C
+- name: Journals
+  sub: J
