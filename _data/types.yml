@@ -6,6 +6,6 @@
 - name: Robotics
   sub: RO
 - name: Conferences
-  sub: C
+  tip: C
 - name: Journals
-  sub: J
+  tip: J
