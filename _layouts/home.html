@@ -124,7 +124,7 @@
         <footer>
           <div class="row">
             <div class="col-xs-12 col-sm-6">
-              <a href="/">{{ site.domain }}</a> is maintained by <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a>.<br>
+              <a href="/">{{ site.baseurl }}</a> is maintained by <a href="https://twitter.com/{{ site.twitter_username }}">@{{ site.twitter_username }}</a>.<br>
               If you find it useful, consider buying him <a target="_blank" href="https://read.gift/u/abhshkdz">a book</a> or <a title="_blank" href="https://www.buymeacoffee.com/abhshkdz">coffee</a>.
             </div>
           </div>
@@ -243,7 +243,7 @@
         var url = new URL(window.location);
         var subs = url.searchParams.get('sub');
         if (subs == undefined) {
-           subs = store.get('{{ site.domain }}');
+           subs = store.get('{{ site.baseurl }}');
         } else {
            subs = subs.toUpperCase().split(',');
         }
@@ -270,7 +270,7 @@
             $('#' + subs[i] + '-checkbox').prop('checked', true);
           }
         }
-        store.set('{{ site.domain }}', subs);
+        store.set('{{ site.baseurl }}', subs);
         window.history.pushState('', '', '/ai-deadlines/?sub=' + subs.join());
 
         // Event handler on checkbox change
@@ -294,7 +294,7 @@
             }
           }
           console.log(subs);
-          store.set('{{ site.domain }}', subs);
+          store.set('{{ site.baseurl }}', subs);
           window.history.pushState('', '', '/ai-deadlines/?sub=' + subs.join());
         });
 
@@ -311,7 +311,7 @@
           $('.' + csub + '-conf').show();
           subs = [csub];
           console.log(subs);
-          store.set('{{ site.domain }}', subs);
+          store.set('{{ site.baseurl }}', subs);
           window.history.pushState('', '', '/ai-deadlines/?sub=' + subs.join());
         });
     });
