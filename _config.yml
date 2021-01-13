@@ -8,8 +8,8 @@ baseurl: "https://vicentepedro.github.io/ai-deadlines"
 
 #twitter_username: abhshkdz
 #twitter_hashtag: machinelearning
-#github_username: abhshkdz
-#github_repo: ai-deadlines
+github_username: vicentepedro
+github_repo: ai-deadlines
 
 markdown: kramdown
 ga_id: UA-36274081-2
