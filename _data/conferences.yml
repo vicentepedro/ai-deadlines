@@ -58,7 +58,7 @@
   timezone: UTC
   date: July 19-21, 2021
   place: Aveiro, Portugal
-  sub: CV, RO, ML
+  sub: {CV, RO, ML}
   tip: C
   
 - title: ICDL
