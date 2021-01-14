@@ -172,3 +172,15 @@
   place: Montreal, Canada
   sub: CV
   tip: C
+  
+- title: ROBOT
+  year: 2021
+  id: robot2021
+  link: https://www.iberianroboticsconf.eu/home
+  deadline: '2021-06-01 23:59:00'
+  timezone: UTC
+  date: November 20-22, 2021
+  place: Zaragoza, Spain
+  sub: RO
+  tip: C
+  
